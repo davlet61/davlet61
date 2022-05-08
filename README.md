@@ -1,4 +1,6 @@
-Hi 👋 My name is Dovlat Yakshibayev
+Hi 👋 
+
+My name is Dovlat Yakshibayev
 ===================================
 
 Full stack JavaScript Developer
