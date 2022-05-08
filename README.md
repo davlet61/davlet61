@@ -1,17 +1,15 @@
-Hi 👋 
+Hi 👋
 
-My name is Dovlat Yakshibayev
-===================================
+# My name is Dovlat Yakshibayev
 
-Full stack JavaScript Developer
--------------------------------
+## Full stack JavaScript Developer
 
 A tech enthusiast always motivated to learn, gain new skills and continuously improve himself. As a developer, besides problem solving and overcoming obstacles, I really enjoy helping people to digitize their ideas. I have been freelancing as graphic designer for couple of years before I finally decided to get into web development, something I was always passionate about.
 
-*   🌍  I'm based in Oslo
-*   ✉️  You can contact me at [dovlat93@gmail.com](mailto:dovlat93@gmail.com)
-*   🧠  I'm learning Go
-*   ⚡  noob CSGO player 😁
+- 🌍  I'm based in Oslo
+- ✉️  You can contact me at [dovlat93@gmail.com](mailto:dovlat93@gmail.com)
+- 🧠  I'm learning Go
+- ⚡  noob CSGO player 😁
 
 ### Skills
 
@@ -31,7 +29,7 @@ A tech enthusiast always motivated to learn, gain new skills and continuously im
                                 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
                                 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
                                 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-                                <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+                                <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36" alt="Express" /></a>
                                 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
                                 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
                                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
@@ -44,4 +42,3 @@ A tech enthusiast always motivated to learn, gain new skills and continuously im
                                 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
-                    
