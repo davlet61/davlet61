@@ -8,7 +8,6 @@ A tech enthusiast always motivated to learn, gain new skills and continuously im
 
 - 🌍  I'm based in Oslo
 - ✉️  You can contact me at [dovlat93@gmail.com](mailto:dovlat93@gmail.com)
-- 🧠  I'm learning Go
 - ⚡  noob CSGO player 😁
 
 ### Skills
