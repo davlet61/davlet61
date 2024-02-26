@@ -6,8 +6,6 @@
 
 A tech enthusiast always motivated to learn, gain new skills and continuously improve himself. As a developer, besides problem solving and overcoming obstacles, I really enjoy helping people to digitize their ideas. I have been freelancing as graphic designer for couple of years before I finally decided to get into web development, something I was always passionate about.
 
-- 🌍  I'm based in Oslo
-- ⚡  noob CSGO player 😁
 
 ### Skills
 
